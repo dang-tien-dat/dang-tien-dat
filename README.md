@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Dat Dang
 
-🚀 AI Engineer | Computer Vision & Vision-Language Models  
+🚀 AI Engineer | Computer Vision & Vision-Language Models & Large-Language Models
 📍 Vietnam  
 
 ---
 
 ### 🔭 Currently Working On
 - AI Vision-Language systems  
-- Environmental event detection pipelines  
 - LLM and VLM powered reasoning systems  
 
 ### 🌱 Currently Learning
