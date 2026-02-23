@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi there 👋 I'm Dat Dang
 
-<!--
-**dang-tien-dat/dang-tien-dat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Computer Vision & Vision-Language Models  
+📍 Vietnam  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- AI Vision-Language systems  
+- Environmental event detection pipelines  
+- LLM and VLM powered reasoning systems  
+
+### 🌱 Currently Learning
+- Advanced multimodal models  
+- MLOps & scalable AI deployment  
+- Model evaluation and benchmarking strategies  
+
+### 👯 Open to Collaborate On
+- AI research projects  
+- Computer vision applications  
+- Open-source AI tools  
+
+### 💬 Ask Me About
+- Python & AI pipelines  
+- Prompt engineering  
+- Model evaluation design  
+- Git & software development workflows  
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 How to Reach Me
+- GitHub: https://github.com/dang-tien-dat  
+- Email: dangdat222@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning complex AI problems into clean, production-ready systems.
+
+---
+
+⭐️ Feel free to check out my repositories and connect!
