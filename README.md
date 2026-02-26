@@ -10,9 +10,8 @@
 - LLM and VLM powered reasoning systems  
 
 ### 🌱 Currently Learning
-- Advanced multimodal models  
-- MLOps & scalable AI deployment  
-- Model evaluation and benchmarking strategies  
+- IBM RAG and Agentic AI Professional
+- IBM AI Engineering Professional 
 
 ### 👯 Open to Collaborate On
 - AI research projects  
