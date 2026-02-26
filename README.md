@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dat Dang
+## Hi there 👋 I'm Dat (Dasuo) Dang
 
 🚀 AI Engineer | Computer Vision & Vision-Language Models & Large-Language Models
 📍 Vietnam  
@@ -15,7 +15,6 @@
 
 ### 👯 Open to Collaborate On
 - AI research projects  
-- Computer vision applications  
 - Open-source AI tools  
 
 ### 💬 Ask Me About
