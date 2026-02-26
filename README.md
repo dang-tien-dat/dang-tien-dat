@@ -33,7 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 How to Reach Me
-- GitHub: https://github.com/dang-tien-dat  
+- GitHub: https://github.com/datdasuo  
 - Email: dangdat222@gmail.com  
 
 ---
